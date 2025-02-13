@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let noBtnClickCount = 0;
 
     yesBtn.addEventListener('click', function() {
-        response.textContent = "I love you so much! You're my everything!";
+        response.textContent = "I love you so so much!! YEZZZY YEZZ YEZZZ";
         response.classList.add('heart-beat');
         yesBtn.style.display = 'none';
         noBtn.style.display = 'none';
